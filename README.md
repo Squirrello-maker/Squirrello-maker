@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Squirrello-maker
-- 👀 I’m interested in all things about IT like web apps, developing software and IoT
+- 👀 I’m interested in many topics about IT like web apps, developing software and IoT
 - 🌱 I’m currently learning C# and mastering my web developing skills
 
 <!---
