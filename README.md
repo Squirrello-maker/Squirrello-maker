@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Water Tracker mobile app using react native!**
 
-- 🌱 I’m currently learning **React Native, Redis and Docker!**
+- 🌱 I’m currently learning **Redis and Docker!**
 
 - 📫 How to reach me **main.emilolejnik@gmail.com**
 
