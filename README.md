@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Squirrello!</h1>
 <h3 align="center">A recent Computer Science graduate willing to deepen knowledge about software development</h3>
 
-- 🔭 I’m currently working on **FitExpress - a diet food catering service**
+- 🔭 I’m currently working on **Water Tracker mobile app using react native!**
 
 - 🌱 I’m currently learning **React Native, Redis and Docker!**
 
